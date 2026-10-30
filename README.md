@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Alyans Logistics
+# 🚢 Alyans Logistics
 
 **Kurumsal Site · Uluslararası Lojistik**
 
